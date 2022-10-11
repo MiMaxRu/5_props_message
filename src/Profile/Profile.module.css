@@ -1,0 +1,15 @@
+.content {
+  margin:20%;
+  margin-top: 5%;
+  background-color: rgba(7, 17, 27, 0.283);
+  width: 1000px;
+  height: auto;
+  color: white;
+  border-radius: 20px;
+  padding: 40px;
+}
+.im img {
+  width: 100%;
+}
+
+

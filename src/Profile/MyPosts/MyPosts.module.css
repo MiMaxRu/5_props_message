@@ -1,0 +1,11 @@
+.content textarea {
+    width: 95%;
+    height: 100px;
+}
+.main{
+    width: 1000px;
+}
+.content {
+    display: flex;
+    justify-content: center;
+}
